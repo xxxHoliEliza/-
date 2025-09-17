@@ -46,7 +46,7 @@
     <div class="card">
       <h3>Patreon 会员</h3>
       <p>获取独家内容和支持。</p>
-      <a href="https://patreon.com/your-page" target="_blank">访问 Patreon</a>
+      <a href="[https://patreon.com/your-page](https://www.patreon.com/xxxHolicEliza?utm_campaign=creatorshare_creator)" target="_blank">访问 Patreon</a>
     </div>
     <div class="card">
       <h3>YouTube 频道</h3>
